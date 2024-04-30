@@ -19,7 +19,7 @@ Gobang, also known as Five in a Row, is a classic strategic board game. This pro
 4. Move Suggestions and Time Management: To enhance the competitive aspect of the game, visualizations are provided for possible moves. The application also tracks and displays time constraints for each move (step time) and total game duration (session time).
 5. Game Records and Undo Functionality: The platform records detailed game statistics in the database, allowing players to review past outcomes. An undo feature is available, enhancing strategic depth and providing players with the opportunity to rectify mistakes.
 6. Chat and Interaction: An integrated chat system allows players to communicate during the game, adding a social element to the platform.
-7. Concession, Save/Load Game: Players can concede games, save ongoing games for future replay, or load previously saved games, adding flexibility to the gaming experience.
+7. Surrender, Save/Load Game Board: Players can concede games, save ongoing games for future replay, or load previously saved games, adding flexibility to the gaming experience.
 8. Audio and Visual Effects: The application includes sound effects for moves and a background music playlist, along with a rotating background image feature, creating an immersive gaming environment.
 9. AI and Random Player Modes: The application includes two modes for playing against the computer—AI Player and Random Player—catering to different skill levels and providing usability for single-player scenarios.
 10. Professional Rules Implementation: Advanced Gobang rules, such as restrictions on certain moves (forbidden moves), are implemented to align the game closer to competitive standards.
