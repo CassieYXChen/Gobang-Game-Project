@@ -10,13 +10,13 @@ Department: Department of Computer Science and Engineering
 University: The Chinese University of Hong Kong  
 
 ## Introduction
-Gobang, also known as Five in a Row, is a classic strategy board game. This project aims to provide a comprehensive Gobang game application, developed as part of the CSCI3100 course requirements. The application facilitates real-time gameplay between two players either over a local network or via the internet, leveraging JavaFX for the graphical user interface, and utilizing sockets for network communications, JDBC for database interactions, and MySQL for data management.
+Gobang, also known as Five in a Row, is a classic strategic board game. This project aims to provide a comprehensive Gobang game application as part of the requirements for the CSCI3100 course. The application supports real-time gameplay for local two-player matches or remote two-player matches over the same local network. It utilizes JavaFX for the graphical user interface, socket programming for network communication, JDBC for database interaction, and MySQL for data management.
 
 ## Key Features and Implementation
 1. User Registration and Login: The application supports user registration and login functionality, essential for personalized gaming experiences. This is achieved through JDBC, which facilitates robust interaction with a MySQL database, thereby ensuring secure storage and retrieval of user credentials.
 2. Opponent Selection and Game Initiation: Players can select their opponents through a user-friendly interface. Real-time gameplay is enabled via socket connections, ensuring seamless and synchronous game interactions.
 3. Graphical User Interface: The GUI, constructed using JavaFX, features an intuitive layout that includes a dynamic chessboard and interactive buttons for actions such as initiating a new game or exiting the current session.
-4. Move Suggestions and Time Management: To enhance the competitive aspect of the game, visual cues are provided for possible moves. The application also tracks and displays time constraints for each move (step time) and total game duration (session time).
+4. Move Suggestions and Time Management: To enhance the competitive aspect of the game, visualizations are provided for possible moves. The application also tracks and displays time constraints for each move (step time) and total game duration (session time).
 5. Game Records and Undo Functionality: The platform records detailed game statistics in the database, allowing players to review past outcomes. An undo feature is available, enhancing strategic depth and providing players with the opportunity to rectify mistakes.
 6. Chat and Interaction: An integrated chat system allows players to communicate during the game, adding a social element to the platform.
 7. Concession, Save/Load Game: Players can concede games, save ongoing games for future replay, or load previously saved games, adding flexibility to the gaming experience.
