@@ -10,7 +10,6 @@ Department: Department of Computer Science and Engineering
 University: The Chinese University of Hong Kong  
 
 ## Introduction
-Introduction
 Gobang, also known as Five in a Row, is a classic strategy board game. This project aims to provide a comprehensive Gobang game application, developed as part of the CSCI3100 course requirements. The application facilitates real-time gameplay between two players either over a local network or via the internet, leveraging JavaFX for the graphical user interface, and utilizing sockets for network communications, JDBC for database interactions, and MySQL for data management.
 
 ## Key Features and Implementation
