@@ -119,7 +119,7 @@ source ~/.bash_profile
 
 ## Additional Rule
   
-"Forbidden Move" is a special button in "Human VS AI". Click on this button, then you will be restrict by rules according to the "Chinese Backgammon Competition Rules".  
+"Forbidden Move" is an additional rule in "Human VS Human" and also "Human VS AI" mode. Click on the button("ForbiddenMove On" in "Human VS Human" mode, "Forbbion Move" in "Human VS AI" mode), then you will be restrict by rules according to the "Chinese Backgammon Competition Rules".  
 Specification:  
 1. Three-three forbidden (black's one piece falls to form two live threes at the same time, and this piece must be a common component of the two living threes).  
 2. Four-four forbidden (black's one piece falls to form two or more living fours at the same time).  
