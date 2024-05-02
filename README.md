@@ -48,7 +48,7 @@ Ensure your system is equipped with:
 2. After opening the project file folder in IntelliJ IDEA, click "File" at the top of your computer screen, then click "Project Structure".  
 2.1. Click "Project" on the left side of the "Project Structure" window, then choose "1.8 java version "1.8.0_xxx"" for Project SDK.  
 2.2. Click "Libraries" on the left side of the "Project Structure" window, then click "+", select Gobang-Game-Project-main.lib.mysql-connector-j-8.3.0.jar and click "Open". Click "Apply" and then "OK" at the bottom-right corner.  
-2.3. After 2.1 and 2.2, click "Modules" on the left side of the "Project Structure" window, you will the files involved in the previous two steps. If not, see if you complete 2.1 and 2.2 successfully or click "+" at the top-left corner    and click "Import Module" to add the missing files manually. 
+2.3. After 2.1 and 2.2, click "Modules" on the left side of the "Project Structure" window, you will see the two files involved in the previous two steps. If not, see if you complete 2.1 and 2.2 successfully or click "+" at the top-left corner and click "Import Module" to add the missing files manually. 
 #### MySQL
 
 1. Download and install MySQL version 8.0.
